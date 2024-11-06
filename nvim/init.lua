@@ -27,6 +27,6 @@ config = function()
 	configs.setup({
 		ensure_installed = {"lua","javascript","c","html","python","go","typescript"},
 		highlight = { enable = true },
-        	indent = { enable = true },  
+        indent = { enable = true },
 	})
 end
